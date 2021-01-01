@@ -7,3 +7,12 @@ Pages: 2-22
 
 ### Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
 Pages: 23-56
+
+### Course 3: Structuring Machine Learning Projects
+Pages: 57-72
+
+### Course 4: Convolutional Neural Networks
+Pages: 73-102
+
+### Course 5: Sequence Models
+Pages: 103-123
