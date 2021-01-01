@@ -4,8 +4,8 @@
 
 ### Course 1: Neural Networks & Deep Learning
 Pages: 2-22
-* Introduction to Deep Learning: Pages 2-3
-* Neural Networks Basics: Pages 3-13
+* Introduction to Deep Learning: pg. 2-3
+* Neural Networks Basics: pg. 3-13
 
 ### Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
 Pages: 23-56
