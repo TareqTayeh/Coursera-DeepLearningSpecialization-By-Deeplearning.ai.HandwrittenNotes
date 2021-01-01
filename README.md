@@ -6,6 +6,8 @@
 Pages: 2-22
 * Introduction to Deep Learning: pg. 2-3
 * Neural Networks Basics: pg. 3-13
+* Shallow Neural Networks: pg. 13-18
+* Deep Neural Networks: pg. 19-22
 
 ### Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
 Pages: 23-56
